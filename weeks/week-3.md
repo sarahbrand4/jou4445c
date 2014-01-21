@@ -10,7 +10,9 @@ Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them
 
 ## Goals (during meeting)
 
-- TBD
+- Review story pitches
+- Set theme
+- Set teams
 
 ## This week
 
