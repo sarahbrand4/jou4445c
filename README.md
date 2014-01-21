@@ -3,55 +3,13 @@ jou4445c
 
 ## Weekly goals
 
+* [Week 4](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-4.md)
 * [Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
 * [Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
 
 ## Theme
 
-Deciding between "Energy" and "Now & Then"
-
-### Now & Then
-
-#### Solo topics
-
-* Rights on campus
-* Interview the oldest professor at UF
-* Commerical space travel
-* Gainesville restaurant
-* UF seniors from baby pics to now
-* Something that hasn't changed
-
-#### Group topics
-
-* Spend a week living like someone from a different era (tech, food, fashion or whatever)
-* Track down people in historical pictures
-* Day in the life of a student athlete
-* UF student living
-* UF traditions
-* Gainesville places
-* Forgotten places
-
-### Energy
-
-#### Solo topics
-
-* Day in the life of a student athlete
-* Types of food that give more energy
-* Commerical space travel
-* Family with a large quantity of children
-* Profile of person with really frickin' weird hobby
-* UF Solar Energy -- building a car
-
-#### Group topics
-
-* Crossfit or another fitness methodology
-* Off the grid living
-* Psychic, medium, etc.
-* Haunted places
-* Sex and energy
-* Coffee
-* Gainesville nightlife
-
+"Energy"
 
 ## Goals
 
