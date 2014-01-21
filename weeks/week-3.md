@@ -17,4 +17,6 @@ Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them
 
 ## This week
 
-- TBD
+- Update your group story with teammates, details from your meeting and success metrics.
+- Pitch an individual story concept either within an existing topic (e.g. Coffee) or as a stand-alone.
+- Select an additional role if you want one.
