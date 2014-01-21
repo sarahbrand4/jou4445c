@@ -17,6 +17,6 @@ Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them
 
 ## This week
 
-- Update your group story with teammates, details from your meeting and success metrics.
-- Pitch an individual story concept either within an existing topic (e.g. Coffee) or as a stand-alone.
-- Select an additional role if you want one.
+- [Update your group story](https://github.com/gotoplanb/jou4445c/issues?milestone=1&page=1&state=open) with teammates, details from your meeting and success metrics.
+- [Pitch an individual story concept](https://github.com/gotoplanb/jou4445c/issues?milestone=1&page=1&state=open) either within an existing topic (e.g. Coffee) or as a stand-alone.
+- Select an [additional role](https://docs.google.com/forms/d/1eFQaPRcuJP1gNwgBYKirmEdxfDqHKyl7mqVdeXrhsXY/viewform).
