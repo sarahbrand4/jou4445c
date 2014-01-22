@@ -11,6 +11,7 @@ Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them
 ## Goals (during meeting)
 
 - TBD
+- Demos: [Prss](http://prss.com/)
 
 ## This week
 
