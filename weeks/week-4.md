@@ -12,6 +12,7 @@ Go through Week 3 goals. Write lots of comments on the story pitches. Flesh them
 
 - TBD
 - Demos: [Prss](http://prss.com/)
+- (optional) Attend an [Adobe DPS training session](http://edu.adobeeventsonline.com/DPS/2014/UF/invite.html)
 
 ## This week
 
