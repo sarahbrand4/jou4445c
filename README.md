@@ -59,9 +59,22 @@ jou4445c
 
 * Maria Galindo
 
+# Article scope (in word equivalency)
+
+## Group article
+
+* combined = 6,000 words
+
+## Individual article
+
+* writer-only = 3,000 words
+* copy editor = 1,500 words
+* directors = 750 words
+
 ## Evaluation 
 
 See the syllabus.
+
 
 ## Read
 
