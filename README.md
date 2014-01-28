@@ -16,6 +16,49 @@ jou4445c
 * My goals are for every person to tell one compelling story and explain one interesting thing. 
 * You get to pick the channels and metrics.
 
+# Roles
+
+## Copy editors
+
+* James Thieke
+* Mary Reyes
+* Natanya Spies
+* Brittany Bokzam
+* Amber Dawson
+* Katina Prokos
+* Deanna Shahnami
+* Alexa Volland
+
+## Editor-in-Chief
+
+* Devon Abelman (print)
+* Adam Pincus (digital)
+
+## Executive Editor (work with Social Media Editor)
+
+* Viana Bhagan (both)
+
+## Writers
+
+* Adam Lichtenstein
+* Sarah Davis
+* Maria Galindo
+* Bethany
+
+## Creative Director
+
+* Sarah Brand (digital)
+* Emilie Shinskie (print)
+
+## Art Director
+
+* Bakr Muhammad (print)
+* Yaissy Solis (digital)
+
+## Social Media Editor (works with Executive Editor)
+
+* Maria Galindo
+
 ## Evaluation 
 
 See the syllabus.
