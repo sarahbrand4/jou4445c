@@ -3,6 +3,7 @@ jou4445c
 
 ## Weekly goals
 
+* [Week 5](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-5.md)
 * [Week 4](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-4.md)
 * [Week 3](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-3.md)
 * [Week 2](https://github.com/gotoplanb/jou4445c/blob/master/weeks/week-2.md)
