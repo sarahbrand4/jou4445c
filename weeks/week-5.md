@@ -13,3 +13,4 @@
 ## This week
 
 - Hustle.
+- Art and creative directors collaborate on first composites.
