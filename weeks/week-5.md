@@ -6,9 +6,10 @@
 
 ## Goals (during meeting)
 
+- New repository.
+- Give editors push/pull status.
 - Create article files
 - Create milestone for Feb 28 
-- Give editors collaborator status.
 
 ## This week
 
